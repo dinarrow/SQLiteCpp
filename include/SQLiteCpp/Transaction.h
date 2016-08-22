@@ -10,7 +10,7 @@
  */
 #pragma once
 
-#include <SQLiteCpp/Exception.h>
+#include <SQLiteCpp/SQLiteCpp_Exception.h>
 
 
 namespace SQLite

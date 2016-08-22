@@ -12,7 +12,7 @@
 
 #include <SQLiteCpp/Statement.h>
 #include <SQLiteCpp/Assertion.h>
-#include <SQLiteCpp/Exception.h>
+#include <SQLiteCpp/SQLiteCpp_Exception.h>
 
 #include <sqlite3.h>
 
